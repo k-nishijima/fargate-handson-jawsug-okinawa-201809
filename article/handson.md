@@ -42,7 +42,15 @@ footer: @k_nishijima
 
 * https://qiita.com/IgnorantCoder/items/d4f16b1aadd1c03c0e26
 
-資料は多分この辺に上がります（最近slideshareがおかしいから多分sdかな。。。）
+---
+
+# 資料置き場
+
+資料は[GitHub](https://github.com/k-nishijima/fargate-handson-jawsug-okinawa-201809/)に上げてあります。このPDFはこれ。
+
+* https://github.com/k-nishijima/fargate-handson-jawsug-okinawa-201809/blob/master/article/handson.md
+
+PDFは多分この辺に上がります（最近slideshareがおかしいから多分sdかな。。。）
 
 * https://www.slideshare.net/KoichiroNishijima/presentations
 * https://speakerdeck.com/knishijima
